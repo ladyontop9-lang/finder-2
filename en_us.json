@@ -1,0 +1,10 @@
+{
+  "key.storagefinder.open_gui": "Open Click GUI",
+  "key.category.storagefinder.main": "Storage Finder",
+  "key.storagefinder.module.aura": "Toggle Aura",
+  "key.storagefinder.module.storage_finder": "Toggle Storage Finder",
+  "key.storagefinder.module.esp": "Toggle ESP",
+  "key.storagefinder.module.tracers": "Toggle Tracers",
+  "key.storagefinder.module.freecam": "Toggle Freecam",
+  "key.storagefinder.module.arraylist": "Toggle ArrayList"
+}

@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "id": "storagefinder",
+  "version": "${version}",
+  "name": "Storage Finder",
+  "description": "Podświetla chesty, enderchesty i shulkery przez ściany.",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.example.storagefinder.StorageFinderMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.17.0",
+    "minecraft": "1.21.11",
+    "fabric-api": "*"
+  }
+}
